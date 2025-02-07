@@ -1,0 +1,22 @@
+H1 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+button {
+    background-color: lightgray;
+    color: black;
+    font-weight: bold;
+    border: red solid;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 1.5s ease-in-out;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
